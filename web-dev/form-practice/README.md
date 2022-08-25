@@ -1,9 +1,13 @@
+<h1>Form Practice</h1>
+
 This folder contains a pet file that I made while learning html forms, it includes example usage of:
-1) text inputs
-2) number inputs
-3) radio buttons
-4) dropdown lists
-5) data lists
-6) text area inputs
+<ul>
+  <li>text inputs</li>
+  <li>number inputs</li>
+  <li>radio buttons</li>
+  <li>dropdown lists</li>
+  <li>data lists</li>
+  <li>text area inputs</li>
+</ul>
 
 This is accompanied by the css file that gives the page it's style, I did not create that part unfortunately
